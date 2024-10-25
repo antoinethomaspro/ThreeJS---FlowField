@@ -1,4 +1,11 @@
-## Setup
+### Flow Field particle
+Using a flow field using gpgpu in threejs to move particles starting from a model of a boat.
+
+## Link
+Click on this link to view the project in your browser
+https://three-js-flow-field.vercel.app/
+
+## Setup for local usage
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 

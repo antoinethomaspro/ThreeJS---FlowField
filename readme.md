@@ -1,5 +1,6 @@
 # Flow Field in ThreeJS
-Using a flow field using gpgpu in threejs to move particles starting from a model of a boat.
+Flow field using gpgpu in threejs to move particles starting from a model of a boat.
+My first particle system for 3D art. 
 
 ## Link
 Click on this link to view the project in your browser
